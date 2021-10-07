@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classwork", "lesson02.10\classwork.csproj", "{49602FD9-8AFC-44C1-9FF4-BAED690FF4B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework", "homework\homework.csproj", "{E7D100A3-7FDD-4272-98C8-512FC1CAB886}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labs", "Labs\Labs.csproj", "{C123A8A4-5982-4422-96BD-199F0A956812}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49602FD9-8AFC-44C1-9FF4-BAED690FF4B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49602FD9-8AFC-44C1-9FF4-BAED690FF4B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49602FD9-8AFC-44C1-9FF4-BAED690FF4B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49602FD9-8AFC-44C1-9FF4-BAED690FF4B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7D100A3-7FDD-4272-98C8-512FC1CAB886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D100A3-7FDD-4272-98C8-512FC1CAB886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D100A3-7FDD-4272-98C8-512FC1CAB886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D100A3-7FDD-4272-98C8-512FC1CAB886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C123A8A4-5982-4422-96BD-199F0A956812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C123A8A4-5982-4422-96BD-199F0A956812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C123A8A4-5982-4422-96BD-199F0A956812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C123A8A4-5982-4422-96BD-199F0A956812}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ED88B3F-8239-4808-ACD5-B1C2F129798C}
+	EndGlobalSection
+EndGlobal
